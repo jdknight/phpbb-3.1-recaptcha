@@ -1,0 +1,11 @@
+services:
+    secondsparrow.recaptcha.listener:
+        class: secondsparrow\recaptcha\event\main_listener
+        arguments:
+            - @config
+            - @controller.helper
+            - @request
+            - @template
+            - @user
+        tags:
+            - { name: event.listener }
