@@ -3,7 +3,7 @@ phpbb-3.1-recaptcha
 
 Extension will present a [Google reCAPTCHA](https://www.google.com/recaptcha/) box in your forum's registration page.
 
-This extension is supported on phpBB's 3.1.6, 3.1.7 and 3.1.7-pl1 versions.
+This extension is supported on phpBB v3.1.6 to v3.1.9.
 
 ## Installation
 
